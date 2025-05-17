@@ -33,7 +33,7 @@ I created two shortcuts and two automation scripts to take timestamps of when my
 
 (14) In the search box enter "bluetooth" and select "Bluetooth"
 
-(15) In the "Device" section select your car bluetooth connection (this should have already have existed)
+(15) In the "Device" section select your car bluetooth connection (this should already exist)
 
 (16) Select "Is Connected" and "Run immediately", click "Next"
 
