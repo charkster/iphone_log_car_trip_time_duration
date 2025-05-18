@@ -3,6 +3,10 @@ iPhone shortcuts script to save timestamps to a text file when bluetooth connect
 
 I created two shortcuts and two automation scripts to take timestamps of when my phone connects to my car's bluetooth and when it disconnects. It also distinguishes between a connect/disconnect event when it logs the timestamp. I took screenshots of everything.
 
+Car Bluetooth Connect      |  Car Bluetooth Disconnect | Automation
+:-------------------------:|:-------------------------:|:-------------------------:
+![picture](https://github.com/charkster/iphone_log_car_trip_time_duration/blob/main/Bluetooth_Camry_connect_shortcut.PNG)  |  ![picture](https://github.com/charkster/iphone_log_car_trip_time_duration/blob/main/Bluetooth_Camry_disconnect_shortcut.PNG) | ![picture](https://github.com/charkster/iphone_log_car_trip_time_duration/blob/main/bluetooth_automation.PNG)
+
 ## Steps:
 
 (1) Create a folder to save your logfile to (use the "Files" app and click on "On My iPhone", then click on the circle with 3 dots, and select "New Folder")
